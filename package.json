@@ -1,0 +1,8 @@
+{
+  "name": "angular2-quickstart",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.48"
+  }
+}
